@@ -1,0 +1,9 @@
+metric,value
+raw_transactions,1067371.0
+clean_transactions,779425.0
+customers_analyzed,5878.0
+total_revenue_gbp,17374804.27
+repeat_buyers,4255.0
+observation_window_customers,5041.0
+churned_customers,2512.0
+retained_customers,2529.0

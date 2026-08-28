@@ -1,0 +1,6 @@
+feature,risk_direction,interpretation
+recency_days,1,Longer inactivity is associated with higher churn risk
+average_unit_price,1,Higher average unit price is associated with higher risk in the reference model
+unique_purchase_days,-1,More distinct purchase days are associated with retention
+monetary_score,-1,Higher monetary RFM score is associated with lower churn risk
+rfm_total_score,-1,Stronger total RFM profile is associated with lower churn risk

@@ -1,0 +1,3 @@
+window,start,end,transactions,customers
+Observation window,2009-12,2011-06,557398,5041.0
+Prediction window,2011-07,2011-12,222027,
